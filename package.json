@@ -1,0 +1,24 @@
+{
+  "name": "agihotelpanel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "cookies": "^0.8.0",
+    "mariadb": "^2.2.0",
+    "md5": "^2.2.1",
+    "mime": "^2.4.4"
+  }
+}
