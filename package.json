@@ -16,7 +16,6 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "cookies": "^0.8.0",
     "mariadb": "^2.2.0",
     "md5": "^2.2.1",
     "mime": "^2.4.4"
