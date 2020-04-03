@@ -16,7 +16,6 @@ console.info('server starting... ' + today.toISOString());
 const postURLs = ['agihotelpanel'];
 const allowedOrigins = [];
 
-const HTTPS_PORT = 3333;
 const HTTP2_PORT = 3334;
 
 const https = require("https");
