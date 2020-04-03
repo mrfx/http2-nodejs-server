@@ -9,7 +9,7 @@
     "watch": "webpack --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "Grzegorz Wojak g.wojak@aginternet.pl",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^4.42.0",
